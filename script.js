@@ -37,7 +37,7 @@ function showMessage(response) {
     yesMessage.textContent = "Wir sehen uns am 14. bebi 😘";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/Tanz.gif";
+    document.getElementsByClassName("image")[0].src = "images/trim.01B2521C-0902-458C-96F5-F6D061057F77.gif";
 
     // Remove yes button
     document.getElementById("yesButton").remove();
